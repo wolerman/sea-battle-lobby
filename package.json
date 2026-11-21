@@ -1,0 +1,16 @@
+{
+  "name": "sea-battle-lobby",
+  "version": "1.0.0",
+  "description": "Matchmaking lobby and relay for Sea Battle 3D",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "8.18.0"
+  },
+  "license": "MIT"
+}
